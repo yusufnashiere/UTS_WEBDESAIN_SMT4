@@ -1,0 +1,65 @@
+<html>
+<head>
+	<title>UTS Web Design - Gustiawan Maula Rizki (5520122017) | Universitas Indonesia Mandiri</title>
+	<style type="text/css">
+		body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h1,h2 {
+	font-family: "Forte";
+}
+
+h2 {
+	color: red;
+
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+ol {
+	font-family: "Calibri Light";
+	font-size: 20px;
+}
+
+ul {
+	font-family: cambria;
+	font-size: 30px;
+}
+
+li:hover{
+	color: white;
+	text-decoration: underline;
+}
+
+</style>
+</head>
+<body>
+<h1 align="center">Membuat Halaman Web dengan Fitur CSS <i>(Cascading Style Sheets)</i></h1><hr><br>
+
+        <h2><u>Resume</u></h2>
+        <ol>
+            <li>Nama  : Gustiawan Maula Rizki</li>
+            <li>Nim   : 5520122017</li>
+            <li>Prodi : Informatika</li>
+            <li>TTL   : Indramayu, 2 Agustus 1998</li>
+            <li>Hobi  : Traveling, Street Photo, Swimming</li>
+        </ol>
+
+        <h2><u>Makanan Favorit</u></h2>
+        <ul>
+            <li>Makanan Kesukaan 1 : Bakso</li>
+            <li>Makanan Kesukaan 2 : Mie Ayam</li>
+            <li>Makanan Kesukaan 3 : Makanan yang pedas kering/berkuah</li>
+            
+        </ul>
+   
+   </body>
+  </html>
