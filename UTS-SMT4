@@ -1,9 +1,9 @@
 <html>
 <head>
-	<title>UTS Web Design - Gustiawan Maula Rizki (5520122017) | Universitas Indonesia Mandiri</title>
+	<title>UTS Web Design - Yusuf Nashir Ramadhan (5520122017) | Universitas Indonesia Mandiri</title>
 	<style type="text/css">
 		body {
-  background-color: lightblue;
+  background-color: lightgreen;
 }
 
 h1 {
@@ -22,44 +22,47 @@ h2 {
 
 p {
   font-family: verdana;
-  font-size: 20px;
+  font-size: 30px;
 }
 ol {
-	font-family: "Calibri Light";
+	font-family: "Times New Roman";
 	font-size: 20px;
 }
 
 ul {
-	font-family: cambria;
-	font-size: 30px;
+	font-family: calibri;
+	font-size: 20px;
 }
 
 li:hover{
-	color: white;
+	color: red;
 	text-decoration: underline;
 }
 
 </style>
 </head>
 <body>
-<h1 align="center">Membuat Halaman Web dengan Fitur CSS <i>(Cascading Style Sheets)</i></h1><hr><br>
+<h1 align="center">UTS SEMESTER 4 WEB DESAIN <i>(Cascading Style Sheets)</i></h1><hr><br>
 
         <h2><u>Resume</u></h2>
         <ol>
-            <li>Nama  : Gustiawan Maula Rizki</li>
-            <li>Nim   : 5520122017</li>
+            <li>Nama  : Yusuf Nashir Ramadhan</li>
+            <li>Nim   : 5520122025</li>
             <li>Prodi : Informatika</li>
-            <li>TTL   : Indramayu, 2 Agustus 1998</li>
-            <li>Hobi  : Traveling, Street Photo, Swimming</li>
+            <li>TTL   : Bekasi, 12 Janauri 1998</li>
+            <li>Hobi  : Playing Game</li>
         </ol>
 
-        <h2><u>Makanan Favorit</u></h2>
+        <h2><u>Makanan Favorit</a></h2>
         <ul>
-            <li>Makanan Kesukaan 1 : Bakso</li>
-            <li>Makanan Kesukaan 2 : Mie Ayam</li>
-            <li>Makanan Kesukaan 3 : Makanan yang pedas kering/berkuah</li>
-            
+            <li>Makanan Kesukaan 1 : nasi goreng</li>
+            <li>Makanan Kesukaan 2 : ayam kremes</li>
+            <li>Makanan Kesukaan 3 : apa aja yang penting bisa di makan</li>
+
         </ul>
-   
+
    </body>
   </html>
+
+
+
